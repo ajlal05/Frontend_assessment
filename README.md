@@ -1,3 +1,5 @@
+**Assessment for Ikonic, completed by Ajlal Murtaza.**
+
 ![Screenshot 1](https://github.com/ajlal05/Frontend_assessment/blob/main/Assets/screenshots/1.png)
 ![Screenshot 2](https://github.com/ajlal05/Frontend_assessment/blob/main/Assets/screenshots/2.png)
 ![Screenshot 3](https://github.com/ajlal05/Frontend_assessment/blob/main/Assets/screenshots/3.png)
